@@ -3,6 +3,16 @@
 All notable changes to Chronicles of Kilwa are documented here. Newest release first.
 Chronicles of Kilwa is a VR journey through the story of Kilwa Kisiwani for Meta Quest 3.
 
+## [0.2.5] - 2026-11-24
+French subtitles, and the version number on the start screen.
+
+### Added
+- French subtitles: every spoken line shows its French translation under the English, and so do the cards that show where to go and what to do.
+- The version number appears on the start screen while the experience loads, and at the very end, so you always know which version you are playing.
+
+### Changed
+- Subtitles, cards and help panels are wider, so their text is easier to read.
+- The movement card stays until you have practised moving and turning, however long the story takes.
 ## [0.2.3] - 2026-11-24
 Learn to move from the first moment you hold the lantern.
 
