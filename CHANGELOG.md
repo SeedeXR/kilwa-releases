@@ -3,6 +3,19 @@
 All notable changes to Chronicles of Kilwa are documented here. Newest release first.
 Chronicles of Kilwa is a VR journey through the story of Kilwa Kisiwani for Meta Quest 3.
 
+## [0.2.6] - 2026-11-24
+Sit or stand with one button, and steadier hands.
+
+### Added
+- Press B on the controller to sit or stand: sitting lowers you so you can reach things on the deck. Press B again to stand.
+
+### Changed
+- French subtitles stand out more: yellow under the white subtitles, white under the yellow cards.
+- Subtitles and cards stay readable when you stand close to a wall or a door.
+- The movement guide for hand tracking appears only when you use your hands; with controllers you see the movement card.
+
+### Fixed
+- The lantern no longer shoots away when you pick it up with your hands.
 ## [0.2.5] - 2026-11-24
 French subtitles, and the version number on the start screen.
 
