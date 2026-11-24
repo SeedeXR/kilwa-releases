@@ -3,6 +3,15 @@
 All notable changes to Chronicles of Kilwa are documented here. Newest release first.
 Chronicles of Kilwa is a VR journey through the story of Kilwa Kisiwani for Meta Quest 3.
 
+## [0.2.3] - 2026-11-24
+Learn to move from the first moment you hold the lantern.
+
+### Added
+- As soon as you pick up the lantern, a card shows how to move and turn: push the thumbstick forward, aim the arc and let go to move; flick it left or right to turn. With hand tracking, a moving hand shows the gesture.
+
+### Changed
+- The help panels no longer cover the yellow arrows that show where to go.
+- The spyglass hint sits clear of its help panel.
 ## [0.2.2] - 2026-11-24
 The Arrival: sail with the Captain from the open sea to Kilwa in the year 960, bring the chief a gift, and speak for the Captain before him.
 
