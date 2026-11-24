@@ -7,7 +7,7 @@ Chronicles of Kilwa is a VR journey through the story of Kilwa Kisiwani for Meta
 Learn to move from the first moment you hold the lantern.
 
 ### Added
-- As soon as you pick up the lantern, a card shows how to move and turn: push the thumbstick forward, aim the arc and let go to move; flick it left or right to turn. With hand tracking, a moving hand shows the gesture.
+- As soon as you pick up the lantern, a card shows how to move and turn: push the thumbstick forward, aim the arc and let go to move; flick it left or right to turn.
 
 ### Changed
 - The help panels no longer cover the yellow arrows that show where to go.
