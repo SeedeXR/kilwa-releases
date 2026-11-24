@@ -14,7 +14,7 @@ The Arrival: sail with the Captain from the open sea to Kilwa in the year 960, b
 - Look through the spyglass to find the island.
 - Pull the sail rope down and tie it on the cleat: the card shows how.
 - Carry the chief's gift, a painted crate, from the ship straight to the mat before him.
-- The chief of Kilwa wears a crown of palm leaves. His two guards hold their spears, and lower them when he lets you stay.
+- The chief of Kilwa wears a crown of palm leaves, with two guards standing beside him, spears in hand.
 - Speak for the Captain: you put his words and the chief's into a language both understand.
 
 ### Changed
